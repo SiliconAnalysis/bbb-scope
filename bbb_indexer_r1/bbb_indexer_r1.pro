@@ -1,4 +1,4 @@
-update=Thu 31 May 2018 03:32:33 PM PDT
+update=Thu 31 May 2018 03:42:55 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -31,12 +31,6 @@ LibDir=../lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
-LibName3=transistors
-LibName4=conn
-LibName5=linear
-LibName6=regul
-LibName7=interface
-LibName8=opto
-LibName9=contrib
-LibName10=/home/mcmaster/doc/ext/bbb-scope/lib/snapeda-eth/SS-60000-008
-LibName11=my4050
+LibName3=conn
+LibName4=my4050
+LibName5=SS-60000-008
