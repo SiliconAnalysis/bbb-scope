@@ -1,4 +1,4 @@
-update=Thu 31 May 2018 03:42:55 PM PDT
+update=Thu 31 May 2018 03:50:51 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -34,3 +34,4 @@ LibName2=device
 LibName3=conn
 LibName4=my4050
 LibName5=SS-60000-008
+LibName6=bbb_cape
