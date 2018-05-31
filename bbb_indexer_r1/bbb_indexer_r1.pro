@@ -1,4 +1,4 @@
-update=Thu 31 May 2018 01:53:05 PM PDT
+update=Thu 31 May 2018 03:32:33 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=lib;../lib/my4050.pretty
+LibDir=../lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
